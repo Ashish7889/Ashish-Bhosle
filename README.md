@@ -1,105 +1,21 @@
-<div align="center">
+# 💫 About Me:
+## About Me<br><br>- 🔭 Currently building AI-powered backend systems and autonomous developer tools  <br>- 🤝 Open to collaborating on AI, backend engineering, and scalable system projects  <br>- 🌱 Exploring advanced RAG pipelines, distributed systems, and AI agents  <br>- 💬 Ask me about Python, FastAPI, LangChain, REST APIs, and LLM applications  <br>- ⚡ Interested in building production-grade AI infrastructure and developer platforms  
 
-# Ashish Bhosle
 
-Backend Software Engineer • AI Systems Developer • LLM Integration
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashish-bhosle-404755371/?skipRedirect=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishbhosle7889@gmail.com) 
 
-Building scalable backend systems, AI-powered applications, and production-grade developer tools.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ashish7889&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ashish7889&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ashish7889&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://www.linkedin.com/in/ashish-bhosle-404755371/?skipRedirect=true">LinkedIn</a> •
-<a href="https://github.com/Ashish7889">GitHub</a> •
-<a href="mailto:ashishbhosle7889@gmail.com">Email</a>
-
-</div>
-
----
-
-## About
-
-Computer Science student focused on backend engineering, AI infrastructure, and distributed systems.
-
-Experienced in developing:
-- Retrieval-Augmented Generation (RAG) systems
-- REST APIs and scalable backend architectures
-- AI-powered assistants and automation tools
-- Vector search and LLM-based applications
-
-Currently exploring advanced AI agents, developer productivity systems, and autonomous workflows.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ashish7889&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Ashish7889&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Technical Skills
-
-### Languages
-Python • Java • SQL • JavaScript • TypeScript
-
-### Backend Development
-FastAPI • Node.js • Express.js • REST APIs • JWT Authentication • Microservices
-
-### AI / Machine Learning
-LangChain • LlamaIndex • OpenAI API • Gemini API • Hugging Face • Scikit-learn
-
-### Databases & Vector Storage
-MySQL • SQLite • Redis • Pinecone • ChromaDB • FAISS
-
-### Cloud & DevOps
-Docker • GitHub Actions • Azure • IBM Cloud • CI/CD
-
----
-
-## Featured Projects
-
-### StockSense AI
-AI-powered stock analysis platform using RAG pipelines, vector embeddings, and LLM reasoning.
-
-- Real-time market signal analysis
-- Semantic search architecture
-- AI-generated buy/sell reasoning
-- Optimized modular inference pipeline
-
----
-
-### AI Legal Assistant
-Voice-enabled legal assistant designed for legal document analysis and case guidance.
-
-- Voice + chat interaction
-- Legal case understanding
-- Retrieval-Augmented Generation workflow
-- Real-time intelligent response system
-
----
-
-### Expense Fraud Detection System
-Machine learning system for anomaly detection in financial transactions.
-
-- Isolation Forest–based detection
-- High-precision fraud identification
-- Reduced false positives
-- Optimized compliance workflow
-
----
-
-## Achievements
-
-- Winner — AI Nexus Enigma Hackathon
-- Finalist — Avinaya Hackathon
-- Built multiple production-oriented AI systems
-- Strong focus on scalable backend engineering
-
----
-
-## Current Focus
-
-- AI Agents
-- Distributed Systems
-- Backend Infrastructure
-- LLM Reliability Engineering
-- Developer Productivity Tools
-
----
-
-<div align="center">
-
-Open to software engineering, backend development, and AI-focused opportunities.
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
